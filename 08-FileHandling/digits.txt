@@ -1,0 +1,10 @@
+
+
+second digit
+\d{3}-\d{3}-\d{4}
+
+third digit
+\d+[^,]\s
+
+fourth digit
+[A-Z]\w+
